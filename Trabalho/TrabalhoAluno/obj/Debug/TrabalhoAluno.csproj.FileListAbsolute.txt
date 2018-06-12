@@ -1,0 +1,8 @@
+C:\Users\josue\source\repos\Trabalho\TrabalhoAluno\obj\Debug\TrabalhoAluno.csprojResolveAssemblyReference.cache
+C:\Users\josue\source\repos\Trabalho\TrabalhoAluno\obj\Debug\TrabalhoAluno.csproj.CoreCompileInputs.cache
+E:\3º modulo - t.i\Qualidade de Software\Trabalho\TrabalhoAluno\bin\Debug\TrabalhoAluno.exe.config
+E:\3º modulo - t.i\Qualidade de Software\Trabalho\TrabalhoAluno\bin\Debug\TrabalhoAluno.exe
+E:\3º modulo - t.i\Qualidade de Software\Trabalho\TrabalhoAluno\bin\Debug\TrabalhoAluno.pdb
+E:\3º modulo - t.i\Qualidade de Software\Trabalho\TrabalhoAluno\obj\Debug\TrabalhoAluno.exe
+E:\3º modulo - t.i\Qualidade de Software\Trabalho\TrabalhoAluno\obj\Debug\TrabalhoAluno.pdb
+E:\3º modulo - t.i\Qualidade de Software\Trabalho\TrabalhoAluno\obj\Debug\TrabalhoAluno.csprojResolveAssemblyReference.cache
